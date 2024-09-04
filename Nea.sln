@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeaLibrary", "NeaLibrary\NeaLibrary.csproj", "{AC8CCD01-958F-4D2D-B48F-7019EFFF50D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp", "WinFormsApp2\WinFormsApp.csproj", "{2E787CF4-3DA5-4C46-B9BB-CB82B24AF517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC8CCD01-958F-4D2D-B48F-7019EFFF50D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8CCD01-958F-4D2D-B48F-7019EFFF50D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8CCD01-958F-4D2D-B48F-7019EFFF50D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8CCD01-958F-4D2D-B48F-7019EFFF50D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E787CF4-3DA5-4C46-B9BB-CB82B24AF517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E787CF4-3DA5-4C46-B9BB-CB82B24AF517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E787CF4-3DA5-4C46-B9BB-CB82B24AF517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E787CF4-3DA5-4C46-B9BB-CB82B24AF517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612A7A34-911A-46A7-BD33-4FF9A8B92A03}
+	EndGlobalSection
+	GlobalSection(AvalonStudioProperties) = preSolution
+		StartupItem = {E530F671-D425-4131-9919-A50768D37D99}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+{"0":{"Name":"Symbol","IsRegex":false,"Regex":"","IsCategorical":false,"Categories":[], "IsNumeric":false, "BoundsAndStep":[]},"1":{"Name":"Date From","IsRegex":true,"Regex":"[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]","IsCategorical":false,"Categories":[], "IsNumeric":false, "BoundsAndStep":[]}, "2":{"Name":"Date To","IsRegex":true,"Regex":"[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]","IsCategorical":false,"Categories":[], "IsNumeric":false, "BoundsAndStep":[]}}
+
+{"0":{"Name":"Symbol","IsRegex":false,"Regex":"","IsCategorical":false,"Categories":[], "IsNumeric":false, "BoundsAndStep":[]},"1":{"Name":"Date From","IsRegex":true,"Regex":"[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]","IsCategorical":false,"Categories":[], "IsNumeric":false, "BoundsAndStep":[]}, "2":{"Name":"Date To","IsRegex":true,"Regex":"[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]","IsCategorical":false,"Categories":[], "IsNumeric":false, "BoundsAndStep":[]}}
+
+{"Name":"Input","IsRegex":false,"Regex":"","IsCategorical":false,"Categories":[], "IsNumeric":true, "BoundsAndStep":[1.0E+6,-1.0E+6, 1.0E-3]}
+
+"IsNumeric":false, "BoundsAndStep":[]
+
+["NeaLibrary.Data.CalculateRSI","NeaLibrary.Data.CalculateStochastic","NeaLibrary.Data.CalculateMacd","NeaLibrary.Data.CalculateSmi","NeaLibrary.Data.CalculateCci","NeaLibrary.Data.CalculateSma","NeaLibrary.Data.CalculateAdx","NeaLibrary.Data.CalculateMfi","NeaLibrary.Data.CalculateAroon","NeaLibrary.Data.CalculateEma"]

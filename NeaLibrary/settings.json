@@ -1,0 +1,28 @@
+{
+  "db_dir": {
+
+    "Value": "<your path here>/Nea/Models/database.sqlite3",
+    "TypeName": "System.String",
+    "Categorical": false,
+    "Categories": [],
+    "PathSelector": true,
+    "FileExtension": "*.sqlite3",
+    "IsNumeric": false,
+    "BoundsAndStep": [],
+    "IsRegex": false,
+    "Regex":  ""
+  },
+  "Random_Batch_Items_Count": {
+
+    "Value": "100",
+    "TypeName": "System.Int32",
+    "Categorical": false,
+    "Categories": [],
+    "PathSelector": false,
+    "FileExtension": "",
+    "IsNumeric": true,
+    "BoundsAndStep": [1,250,1],
+    "IsRegex": false,
+    "Regex": ""
+  }
+}
